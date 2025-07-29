@@ -1,7 +1,7 @@
 # Adobe Lightroom
 Adobe Lightroom is a photo editing and management software developed by Adobe, aimed at photographers and creators who want to organize, enhance, and share their photos efficiently. It’s part of the Adobe Creative Cloud and comes in two main versions: Lightroom (cloud-based) and Lightroom Classic (desktop-focused).
 
-[![12341235267347](https://github.com/user-attachments/assets/67f90d04-f183-4eb6-86b5-6e09b78cee6a)](y.gy/adob-ligtroom)
+[![12341235267347](https://github.com/user-attachments/assets/67f90d04-f183-4eb6-86b5-6e09b78cee6a)](https://y.gy/adob-ligtroom)
 
 ## 🖼️ What Is Lightroom Used For?
 - Photo Editing: Adjust lighting, color, contrast, sharpness, and more with powerful yet non-destructive tools.
